@@ -1,0 +1,23 @@
+# Logs #
+########
+*.log
+
+# Images #
+##########
+*.png
+
+# Zip #
+#######
+*.zip
+
+# CSV #
+#######
+*.csv
+
+# Directory #
+#############
+/update_data
+
+# Miscellaneous #
+#################
+.ipynb_checkpints
