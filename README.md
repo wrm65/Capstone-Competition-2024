@@ -1,5 +1,6 @@
 # Capstone Competition 2024
  Imperial College Business School Capstone Competition 2024
+> for the collborative group
 
 ### Uploading your results
 > Here are the steps to upload your files, `queries.txt` and `observations.txt`:
