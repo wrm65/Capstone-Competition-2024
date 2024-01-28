@@ -8,7 +8,7 @@
 > - Thank you!
 
 
-### Latest grsphs showing the weekly observations
+### Latest graphs showing the weekly observations for each function
 
 ![Graph Function 1 & 2](docs/images/load_capstone_results-15.jpg?raw=true "Title")
 ![Graph Function 3 & 4](docs/images/load_capstone_results-16.jpg?raw=true "Title")
