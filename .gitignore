@@ -17,7 +17,7 @@
 # Directory #
 #############
 /update_data
+/.ipynb_checkpints
 
 # Miscellaneous #
 #################
-.ipynb_checkpints
