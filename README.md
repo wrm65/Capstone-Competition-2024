@@ -1,8 +1,14 @@
 # Capstone-Comp-2024
  Imperial College Business School Capstone Competition 2024
 
-## Uploading your results
-> Please upload your files, `queries.txt` and `observations.txt`
+### Uploading your results
+> Here are the steps to upload your files, `queries.txt` and `observations.txt`:
+> - prefix your files with your student id i.e `484_queries.txt` and `484_observations.txt`
+> - copy your files to the appropriate week number folder within the results directory
+> - Thank you!
+
+
+### Latest grsphs showing the weekly observations
 
 ![Graph Function 1 & 2](docs/images/load_capstone_results-15.jpg?raw=true "Title")
 ![Graph Function 3 & 4](docs/images/load_capstone_results-16.jpg?raw=true "Title")
