@@ -1,6 +1,8 @@
 # Capstone-Comp-2024
  Imperial College Business School Capstone Competition 2024
 
+## Uploading your results
+> Please upload your files, `queries.txt` and `observations.txt`
 
 ![Graph Function 1 & 2](docs/images/load_capstone_results-15.jpg?raw=true "Title")
 ![Graph Function 3 & 4](docs/images/load_capstone_results-16.jpg?raw=true "Title")
