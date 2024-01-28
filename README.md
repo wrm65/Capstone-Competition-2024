@@ -4,7 +4,7 @@
 ### Uploading your results
 > Here are the steps to upload your files, `queries.txt` and `observations.txt`:
 > - prefix your files with your student id i.e `484_queries.txt` and `484_observations.txt`
-> - copy your files to the appropriate week number folder within the results directory
+> - copy your files to the appropriate `week number folder` within the `results directory`
 > - Thank you!
 
 
