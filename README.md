@@ -18,4 +18,4 @@
 
 ### Latest function data
 
-![Function data](docs/html/function_data.html "Function data")
+![Function data](docs/function_data.txt "Function data")
