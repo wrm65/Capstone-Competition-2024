@@ -17,6 +17,38 @@
 ![Graph Function 7 & 8](docs/images/load_capstone_results-18.jpg?raw=true "Title")
 
 ### Latest weekly observations for each function
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Fn</th>
+      <th scope="col">Sample</th>
+      <th scope="col">X1</th>
+      <th scope="col">X2</th>
+      <th scope="col">X3</th>
+      <th scope="col">X4</th>
+      <th scope="col">X5</th>
+      <th scope="col">X6</th>
+      <th scope="col">X7</th>
+      <th scope="col">X8</th>
+      <th scope="col">Y</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>1</td>
+      <td>0.3194</td>
+      <td>0.763</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>1.32268e-79</td>
+    </tr>
+  </tbody>
+</table>
 
   Fn    Sample      X1      X2  X3    X4    X5    X6    X7    X8                Y
 ----  --------  ------  ------  ----  ----  ----  ----  ----  ----  -------------
