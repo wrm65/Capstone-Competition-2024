@@ -11,10 +11,7 @@
 
 ### Latest graphs showing the weekly observations for each function
 
-![Graph Function 1 & 2](docs/images/load_capstone_results-15.jpg?raw=true "Function 1 & 2")
-![Graph Function 3 & 4](docs/images/load_capstone_results-16.jpg?raw=true "Function 3 & 4")
-![Graph Function 5 & 6](docs/images/load_capstone_results-17.jpg?raw=true "Function 5 & 6")
-![Graph Function 7 & 8](docs/images/load_capstone_results-18.jpg?raw=true "Function 7 & 8")
+![Graph Functions 1 - 8](docs/images/graph_240130_1955.jpg?raw=true "Functions 1 - 8")
 
 ### Latest function data
 
