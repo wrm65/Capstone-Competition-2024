@@ -10,7 +10,7 @@
 
 
 ### Download the latest results
-> You will need to download the following into your Jupyter environment:
+> You will need to download the following into your `Jupyter environment`:
 > - the Jupyter notebook `load_capstone_results.ipynb`
 > - the `initial_data directory` which contains the functions' initial inputs and output files (these are numpy format files)
 > - the `data directory` which contains the students result files (queries and observations - these are plain text files)
@@ -18,7 +18,7 @@
 
 
 ### View the latest results
-> After downloading all the above into your Jupyter environment:
+> After downloading all the above into your `Jupyter environment`:
 > - run the notebook `load_capstone_results.ipynb`
 > - the initial data and the students' result data will be merged and stored in the directory `update_data` in numpy format files
 > - to view your results, run the method print_student_results with your student id e.g. loader.print_student_results(484). This will print our results, ordered by week number
