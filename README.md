@@ -20,8 +20,8 @@
 ### View the latest results
 > After downloading all the above into your `Jupyter environment`:
 > - run the notebook `load_capstone_results.ipynb`
-> - the initial data and the students' result data will be merged and stored in the directory `update_data` in numpy format files
-> - to view your results, run the method `print_student_results` with your `student_id` e.g. loader.print_student_results(484). This will print our results, ordered by week number
+> - the initial data and the students' result data will be merged and stored in the directory `update_data` in `numpy` format files
+> - to view your results, run the method `print_student_results` with your `student_id` e.g. loader.print_student_results(484). This will print your results, ordered by week number
 > - you can view your results, sorted by function number, by including a `True` argument to the `print_student_results` method e.g. `loader.print_student_results(484, True)`
 > - to view the (entire) updated results, run the method `print_results` e.g. `loader.print_results()`
 > - the observation results can also be viewed graphically by running the method `plot_observations`. Pass in your `student id` as an argument and your observations will be highlighted on each graph e.g. `loader.plot_observations(484)`
