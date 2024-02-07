@@ -36,7 +36,7 @@
 
 ### Latest graphs showing the weekly observations for each function
 
-![Graph Functions 1 - 8](docs/images/graph_240201_1303.jpg?raw=true "Functions 1 - 8")
+![Graph Functions 1 - 8](docs/images/graph_240207_1620.jpg?raw=true "Functions 1 - 8")
 
 ### Latest function data
 
