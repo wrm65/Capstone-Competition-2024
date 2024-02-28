@@ -6,7 +6,7 @@
 > Here are the steps to upload your files, `queries.txt` and `observations.txt`:
 > - prefix your files with your student id i.e `484_queries.txt` and `484_observations.txt`
 > - copy your files to the appropriate `week number folder` within the `results directory`
-> - Thank you!
+> - that's it...Thank you!
 
 
 ### Download the latest results
@@ -14,7 +14,7 @@
 > - the Jupyter notebook `load_capstone_results.ipynb`
 > - the `initial_data directory` which contains the functions' initial inputs and output files (these are `numpy` format files)
 > - the `data directory` which contains the students result files (queries and observations - these are plain `text` files)
-> - Thank you!
+> - that's it...Thank you!
 
 
 ### View the latest results
@@ -36,7 +36,7 @@
 
 ### Latest graphs showing the weekly observations for each function
 
-![Graph Functions 1 - 8](docs/images/graph_240207_1620.jpg?raw=true "Functions 1 - 8")
+![Graph Functions 1 - 8](docs/images/graph_240228_1934.jpg?raw=true "Functions 1 - 8")
 
 ### Latest function data
 
