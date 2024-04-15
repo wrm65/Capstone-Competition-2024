@@ -42,7 +42,7 @@
 ![Student Position](docs/images/leadboard_student.jpg?raw=true "Student Ranking")
 
 
-### Latest graphs showing the weekly observations for each function
+### Graphs showing (up to week 7) the weekly observations for each function
 
 ![Graph Functions 1 - 8](docs/images/graph_240228_1934.jpg?raw=true "Functions 1 - 8")
 
