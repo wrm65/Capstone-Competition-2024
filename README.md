@@ -33,11 +33,13 @@
 > - `get_student_list`
 > - Thank you!
 
+### Final Leaderboard Positions
+![Student Ranking](docs/images/leadboard_ranking.jpg?raw=true "Student Ranking")
+
+![Student Position](docs/images/leadboard_student.jpg?raw=true "Student Ranking")
+
 
 ### Latest graphs showing the weekly observations for each function
 
 ![Graph Functions 1 - 8](docs/images/graph_240228_1934.jpg?raw=true "Functions 1 - 8")
 
-### Latest function data
-
-![Function data](docs/function_data.txt "Function data")
