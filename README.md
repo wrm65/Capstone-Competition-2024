@@ -35,10 +35,10 @@
 
 ### Final Leaderboard Positions
 
-#### Students Ranking per Function
+#### - Students Ranking per Function
 ![Student Ranking](docs/images/leadboard_ranking.jpg?raw=true "Student Ranking")
 
-#### Students Position per Function with Overall Ranking
+#### - Students Position per Function with Overall Ranking
 ![Student Position](docs/images/leadboard_student.jpg?raw=true "Student Ranking")
 
 
