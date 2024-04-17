@@ -39,7 +39,7 @@
 ![Student Ranking](docs/images/leadboard_ranking.jpg?raw=true "Student Ranking")
 
 #### - Students Position per Function with Overall Ranking
-![Student Position](docs/images/leadboard_student.jpg?raw=true "Student Ranking")
+![Student Position](docs/images/leadboard_student_1.jpg?raw=true "Student Ranking")
 
 
 ### Graphs showing (up to week 7) the weekly observations for each function
